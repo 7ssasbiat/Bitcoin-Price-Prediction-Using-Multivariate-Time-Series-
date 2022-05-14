@@ -1,5 +1,7 @@
 # Bitcoin-Price-Prediction-Using-Multivariate-Time-Series-
-BITCOIN PRICE FORCASTING USING VAR,VARMA AND VARMA with AUTO-ARIMA
+##BITCOIN PRICE FORCASTING USING VAR,VARMA AND VARMA with AUTO-ARIMA
+
+
 In this project, we are going to choose the best model beteween the following multivariate time series models : VAR,VARMA AND VARMA with AUTO-ARIMA to forcast bitcoin price.
 
 Why MTS?
